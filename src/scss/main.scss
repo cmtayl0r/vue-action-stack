@@ -1,0 +1,8 @@
+@use "abstracts" as *;
+@use "base"; // Base styles (reset, typography, etc)
+@use "layout"; // Layouts (grid, containers)
+
+// Your global styles here
+:root {
+  // Use variables from abstracts
+}
