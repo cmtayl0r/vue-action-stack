@@ -1,5 +1,19 @@
-# Vue 3 + Vite
+# Action Stack
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+## Description
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+Todo list web app to demonstrate CRUD operation inside the Vue framework.
+
+## Tech Stack
+
+- Vue 3 COmposition api with script setup
+- Pinia and Vue Query for state management
+- Vite for build tool
+
+## What I learnt
+
+- TBD
+
+## Todo list
+
+- [ ] x
