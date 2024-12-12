@@ -32,4 +32,14 @@ function handleAddItem(item) {
 }
 </script>
 
-<style lang="scss" scoped></style>
+<style lang="scss" scoped>
+form {
+  margin-bottom: 15px;
+}
+input {
+  margin-top: 25px;
+  margin-bottom: 15px;
+  height: 20px;
+  width: 50%;
+}
+</style>
